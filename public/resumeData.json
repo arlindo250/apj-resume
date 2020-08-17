@@ -2,7 +2,7 @@
   "main": {
     "name":"Arlindo Pol Júnior",
     "occupation":"Infrastructure Analyst",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"In past experiences, I participated in several projects that were important for my career. As support for Ambev's Talend and Broker environments, support and tuning of ecommercers in ATG such as Vivara, Angeloni and InBrands. For the future, I intend to study English outside Brazil, take AWS certifications",
     "image":"profilepic.jpg",
     "bio":"Support and operation of productive environments with high availability of applications focused on Middleware (Oracle, Apache, ATG, etc.) and ETL (Talend and Broker). Development and execution of scripts for improvements and agility in operating processes based on Shell Script. Creation of task automation scripts in Rundeck and Jenkins.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -14,8 +14,8 @@
       "state":"Rio Grande do Sul",
       "zip": "99064-250"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "https://www.linkedin.com/in/arlindo-pol-junior/",
+    "resumedownload":"https://www.linkedin.com/in/arlindo-pol-junior/",
     "social":[
       {
         "name":"linkedin",
